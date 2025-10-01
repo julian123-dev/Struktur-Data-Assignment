@@ -64,6 +64,8 @@ int main(){
     return 0;
 }
 ```
+Program diatas berfungsi sebagai kalkulator sederhana yang dapat menjumlahkan, mengurangkan, mengalikan, dan membagi dua angka yang dimasukkan oleh pengguna.
+
 #### Output:
 ![240302_00h00m06s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/Modul1/soal-1.png)
 
@@ -104,6 +106,8 @@ int main(){
     return 0;
 } 
 ```
+Program diatas berfungsi sebagai program konversi angka menjadi kata dalam bahasa Indonesia untuk angka antara 1 hingga 100.
+
 #### Output:
 ![240302_00h00m06s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/Modul1/soal2.png)
 
@@ -157,6 +161,9 @@ int main(){
     }
 } 
 ```
+Program diatas berfungsi untuk menampilkan pola angka simetris berbentuk segitiga terbalik,
+di mana setiap baris berisi angka menurun di kiri, tanda bintang (*) di tengah, dan angka menaik di kanan.
+
 #### Output:
 ![240302_00h00m06s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/Modul1/soal2.png)
 
@@ -173,4 +180,5 @@ Dasar debugging melalui kesalahan umum dalam kode..
 
 ## Referensi
 [1](https://www.duniailkom.com/tutorial-belajar-c-plus-plus-jenis-jenis-operator-aritmatika-bahasa-c-plus-plus/)
+
 [2]https://www.duniailkom.com/tutorial-belajar-c-plus-plus-perulangan-for-bahasa-c-plus-plus/
