@@ -67,11 +67,11 @@ int main(){
 Program diatas berfungsi sebagai kalkulator sederhana yang dapat menjumlahkan, mengurangkan, mengalikan, dan membagi dua angka yang dimasukkan oleh pengguna.
 
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/Modul1/soal-1.png)
+![240302_00h00m06s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/foto/soal-1.png)
 
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/Modul1/full-soal-1.png)
+![240309_10h21m35s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/foto/full-soal-1.png)
 
 ### 2. [Soal unguided 2]
 
@@ -109,11 +109,11 @@ int main(){
 Program diatas berfungsi sebagai program konversi angka menjadi kata dalam bahasa Indonesia untuk angka antara 1 hingga 100.
 
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/Modul1/soal2.png)
+![240302_00h00m06s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/foto/soal2.png)
 
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/Modul1/full-soal2.png)
+![240309_10h21m35s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/foto/full-soal2.png)
 
 ### 3. [Soal unguided 3]
 
@@ -165,11 +165,11 @@ Program diatas berfungsi untuk menampilkan pola angka simetris berbentuk segitig
 di mana setiap baris berisi angka menurun di kiri, tanda bintang (*) di tengah, dan angka menaik di kanan.
 
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/Modul1/soal2.png)
+![240302_00h00m06s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/foto/soal3.png)
 
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/Modul1/full-soal3.png)
+![240309_10h21m35s_screenshot](https://github.com/julian123-dev/103112400241_Julian_Putra_Pamungkas/blob/main/foto/full-soal3.png)
 
 
 ## Kesimpulan
@@ -179,6 +179,6 @@ Penggunaan input/output, variabel, operator, dan komentar.
 Dasar debugging melalui kesalahan umum dalam kode..
 
 ## Referensi
-[1](https://www.duniailkom.com/tutorial-belajar-c-plus-plus-jenis-jenis-operator-aritmatika-bahasa-c-plus-plus/)
+[1]https://www.duniailkom.com/tutorial-belajar-c-plus-plus-jenis-jenis-operator-aritmatika-bahasa-c-plus-plus/
 
 [2]https://www.duniailkom.com/tutorial-belajar-c-plus-plus-perulangan-for-bahasa-c-plus-plus/
