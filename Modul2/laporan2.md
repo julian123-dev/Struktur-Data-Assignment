@@ -312,6 +312,8 @@ int main() {
 }
 
 ```
+<img width="566" height="421" alt="Image" src="https://github.com/user-attachments/assets/0d4c404a-edbb-435e-abb0-c2acc4370723" />
+
 <img width="799" height="113" alt="Image" src="https://github.com/user-attachments/assets/f45dc36c-25ac-45a4-910e-d3c655addc05" />
 
 Program ini menunjukkan dua cara berbeda untuk menukar nilai dari tiga variabel:
