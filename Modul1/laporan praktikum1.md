@@ -3,7 +3,14 @@
 
 ## Dasar Teori
 
-Penjelasan teori terkait materi modul ini adalah. Aritmatika adalah cabang ilmu matematika yang membahas perhitungan dasar "kabataku", yakni operasi perkalian, pembagian, penambahan dan pengurangan. Struktur perulangan (atau dalam bahasa inggris disebut loop) adalah instruksi kode program yang bertujuan untuk mengulang beberapa baris perintah.
+Perulagan digunakan untuk menyederhanakan program dengan menjalankan bagian yang sama secara berulang. Dan diperlukan intruksi penghenti agar proses bisa berhenti. dan terdapat beberapa perulangan seperti (for, while, do-while).
+untuk for, normal digunakan untuk perulangan yang tahu ingin mengulang berapa kali.
+jika while, digunakan untuk hasil yang tidak pasti, bisa lebih dari 2 output. dan ada syarat tertentu sebagai trigger untuk mendapat hasil tertentu.
+sedangkan untuk do-while sama seperti while, tapi program akan menjalankannya setidaknya sekali walaupun syarat yang diminta salah.
+
+Struktur bisa digunakan untuk mengelompokan variabel dan tipe data.
+struktur juga bisa diisi dengan array.
+struktur juga bisa menyimpan struktur lain yang menyimpan variabel dan tipe data.
 
 ## Guided 
 
@@ -179,6 +186,10 @@ Penggunaan input/output, variabel, operator, dan komentar.
 Dasar debugging melalui kesalahan umum dalam kode..
 
 ## Referensi
-[1]https://www.duniailkom.com/tutorial-belajar-c-plus-plus-jenis-jenis-operator-aritmatika-bahasa-c-plus-plus/
+Arsyad, A. (1997). Media Pembelajaran. Jakarta: RajaGrafindo Persada.
+
+Heriyanto, Abdul Kadir. (2006). Algoritma Pemrograman Menggunakan C++. Yogyakarta: Andi.
+
+Raharjo, Budi. (2006). Pemrograman C++. Bandung: Informatika.
 
 [2]https://www.duniailkom.com/tutorial-belajar-c-plus-plus-perulangan-for-bahasa-c-plus-plus/
