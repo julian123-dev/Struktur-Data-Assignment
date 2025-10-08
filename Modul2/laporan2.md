@@ -22,7 +22,7 @@ Reference adalah sebuah variabel yang berfungsi sebagai pemberi alias untuk vari
 
 ## Guided 
 
-### 1. [Nama Topik]
+### 1. [Array]
 
 ```C++
 #include <iostream>
