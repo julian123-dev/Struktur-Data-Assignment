@@ -310,6 +310,7 @@ int main() {
 }
 
 ```
+<img width="799" height="113" alt="Image" src="https://github.com/user-attachments/assets/f45dc36c-25ac-45a4-910e-d3c655addc05" />
 
 Program ini menunjukkan dua cara berbeda untuk menukar nilai dari tiga variabel:
 Dengan pointer (menggunakan alamat memori)
