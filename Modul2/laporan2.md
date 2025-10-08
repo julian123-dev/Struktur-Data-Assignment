@@ -269,6 +269,7 @@ int main(){
     return 0;
 }
 ```
+<img width="772" height="215" alt="Image" src="https://github.com/user-attachments/assets/036acb11-364f-4462-9441-f8f3a24f65bc" />
 
 Program ini berfungsi untuk menghitung dan menampilkan hasil operasi penjumlahan, pengurangan, dan perkalian antara dua matriks 3x3
 
