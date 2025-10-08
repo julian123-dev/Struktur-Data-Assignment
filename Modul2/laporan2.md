@@ -390,6 +390,7 @@ int main() {
 }
 
 ```
+<img width="689" height="111" alt="Image" src="https://github.com/user-attachments/assets/114614fa-d88b-4f0e-8e0a-8c34cb349968" />
 
 Program ini digunakan untuk mempelajari operasi dasar pada array, seperti:
 Traversing (menampilkan isi)
