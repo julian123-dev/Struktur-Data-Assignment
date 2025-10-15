@@ -43,59 +43,62 @@ int main(){
     return 0;
 }
 ```
-Program ini berfungsi untuk memanggil struct dari mahasiswa dan menghitung nilai rata rata yang didapat dari 2 inputan nilai tersebut..
+Kode di atas berfungsi untuk memanggil struct dari mahasiswa dan menghitung nilai rata rata yang didapat dari 2 inputan nilai tersebut.
 
 
 ### 1. [ADT]
 
 ```C++
-#ifndef PELAJARAN_H
-#define PELAJARAN_H
+#ifndef MAHASISWAA_H
+#define MAHASISWAA_H
 
-#include <iostream>
-using namespace std;
-
-//deklarasi ADT pelajaran
-struct pelajaran{
-    string namaMapel;
-    string kodeMapel;
+struct mahasiswa{
+    char nim[10];
+    int nilai1, nilai2;
 };
-
-//function untuk membuat data pelajaran
-pelajaran create_pelajaran(string namaMapel, string kodepel);
-
-//prosedur untuk menampilkan data pelajaran
-void tampil_pelajaran(pelajaran pel);
-
+void inputMhs(mahasiswa &m);
+float rata2(mahasiswa m)
 #endif
 ```
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
+Berfungsi untuk mencegah error akibat file header di-include lebih dari sekali.
 
-### 1. [Nama Topik]
-
-```C++
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "ini adalah file code guided praktikan" << endl;
-    return 0;
-}
-```
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
-
-### 1. [Nama Topik]
+### 2. [Mahasiswa.cpp]
 
 ```C++
 #include <iostream>
+#include "mahasiswa.h"
+using namespace std;
+
+void input Mhs(mahasiswa &m){
+    cout << "input nama = ";
+    cin <<(m).nim;
+    cout << "input nilai1 =" ;
+    cin >>(m).nilai1;
+    cout << "input nilai2 =" ;
+    cin >>(m).nilai2;
+
+}
+float rata2(mahasiswa m){
+    return (m.niali1 + m.nilai2) / 2.0
+}
+```
+Kode di atas berfungsi untuk menginput data mahasiswa (NIM, dua nilai) lalu menghitung rata-rata nilai mahasiswa tersebut.
+
+### 3. [Main.cpp]
+
+```C++
+#include <iostream>
+#include "mahasiswa.h
 using namespace std;
 
 int main() {
-    cout << "ini adalah file code guided praktikan" << endl;
-    return 0;
+   mahasiswa mhs;
+   inputMhs(mhs);
+   cout << "rata-rata = " rata2(mhs);
+   return 0;
 }
 ```
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
+Kode di atas berfungsi untuk menginput data mahasiswa (NIM dan dua nilai) lalu menghitung serta menampilkan rata-rata nilai mahasiswa ke layar.
 
 ## Unguided 
 
@@ -151,9 +154,6 @@ int main(){
      
 }
 ```
-<img width="1592" height="477" alt="Image" src="https://github.com/user-attachments/assets/bc0ff2b1-e1eb-4a99-9bc6-51d7a8848c59" />
-
-<img width="1280" height="815" alt="Image" src="https://github.com/user-attachments/assets/92da75f5-e9ac-4b0a-9703-66e06d57cf71" />
 
 
 Program ini berfungsi untuk menyimpan data nama,nim,nilai uts,uas,dan tugas di struct mahasiswa lalu menjumlahkan nilai rata ratanya di function bernama nilaiakhir.
@@ -206,7 +206,6 @@ int main(){
     return 0;
 }
 ```
-<img width="1057" height="125" alt="Image" src="https://github.com/user-attachments/assets/1e1ba4a6-48ee-49e8-94d1-4ae56901a0ac" />
 
 Program ini berfungsi untuk membuat ADT dalam sebuah pemograman c++ yang berisi 3 file lalu dijalankan di folder main.
 
