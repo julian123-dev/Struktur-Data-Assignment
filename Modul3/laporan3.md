@@ -288,6 +288,8 @@ int main(){
     return 0;
 }
 ```
+<img width="1605" height="440" alt="Image" src="https://github.com/user-attachments/assets/80edfd2a-fb01-47b5-a985-8a17070c61a1" />
+
 Program ini berfungsi untuk menukar 2 kolom matriks berukuran 3x3 dengan matriks lainnya dan menukar pointer X dan Y secara bersamaan
 
 #### Output:
