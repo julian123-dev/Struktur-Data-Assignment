@@ -210,6 +210,8 @@ int main(){
 ```
 <img width="1057" height="125" alt="Image" src="https://github.com/user-attachments/assets/c28096a9-0236-4b29-8ab0-3cf66d6df341" />
 
+<img width="576" height="287" alt="Image" src="https://github.com/user-attachments/assets/45569094-e2ea-4111-9179-3f6fa4639c74" />
+
 
 Program ini berfungsi untuk membuat ADT dalam sebuah pemograman c++ yang berisi 3 file lalu dijalankan di folder main.
 
