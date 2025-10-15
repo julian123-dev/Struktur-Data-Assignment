@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul Pengenalan Bahasa C++ (Bagian Kedua) (1)</h1>
+# <h1 align="center">Laporan Praktikum Modul Pengenalan Bahasa C++ (Bagian Kedua) (2)</h1>
 <p align="center">Julian Putra Pamungkas</p>
 
 ## Dasar Teori
@@ -22,7 +22,7 @@ Reference adalah sebuah variabel yang berfungsi sebagai pemberi alias untuk vari
 
 ## Guided 
 
-### 1. [Nama Topik]
+### 1. [Array]
 
 ```C++
 #include <iostream>
@@ -269,6 +269,9 @@ int main(){
     return 0;
 }
 ```
+<img width="323" height="503" alt="Image" src="https://github.com/user-attachments/assets/b1fc04d5-aa2a-4a0a-9bb5-ac647d0fa123" />
+
+<img width="772" height="215" alt="Image" src="https://github.com/user-attachments/assets/036acb11-364f-4462-9441-f8f3a24f65bc" />
 
 Program ini berfungsi untuk menghitung dan menampilkan hasil operasi penjumlahan, pengurangan, dan perkalian antara dua matriks 3x3
 
@@ -309,6 +312,9 @@ int main() {
 }
 
 ```
+<img width="566" height="421" alt="Image" src="https://github.com/user-attachments/assets/0d4c404a-edbb-435e-abb0-c2acc4370723" />
+
+<img width="799" height="113" alt="Image" src="https://github.com/user-attachments/assets/f45dc36c-25ac-45a4-910e-d3c655addc05" />
 
 Program ini menunjukkan dua cara berbeda untuk menukar nilai dari tiga variabel:
 Dengan pointer (menggunakan alamat memori)
@@ -388,22 +394,16 @@ int main() {
 }
 
 ```
+<img width="365" height="452" alt="Image" src="https://github.com/user-attachments/assets/25630fab-fbe2-4615-b8a8-d421162b6197" />
+
+<img width="689" height="111" alt="Image" src="https://github.com/user-attachments/assets/114614fa-d88b-4f0e-8e0a-8c34cb349968" />
 
 Program ini digunakan untuk mempelajari operasi dasar pada array, seperti:
 Traversing (menampilkan isi)
 Mencari nilai maksimum dan minimum
 Menghitung rata-rata elemen array
-Menggunakan fungsi dan menu interaktif
+Menggunakan fungsi dan menu interaktif.
 
-
-
-#### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
-
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
-
-#### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
 
 
 ## Kesimpulan
