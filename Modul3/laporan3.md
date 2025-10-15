@@ -206,6 +206,7 @@ int main(){
     return 0;
 }
 ```
+<img width="1057" height="125" alt="Image" src="https://github.com/user-attachments/assets/1e1ba4a6-48ee-49e8-94d1-4ae56901a0ac" />
 
 Program ini berfungsi untuk membuat ADT dalam sebuah pemograman c++ yang berisi 3 file lalu dijalankan di folder main.
 
