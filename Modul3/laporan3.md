@@ -156,6 +156,8 @@ int main(){
 ```
 <img width="1592" height="477" alt="Image" src="https://github.com/user-attachments/assets/07676e12-3566-471f-b9ce-153e5aa1e4ed" />
 
+<img width="1280" height="815" alt="Image" src="https://github.com/user-attachments/assets/97d0c0e4-c1cf-4dff-8799-b769fd380cdf" />
+
 Program ini berfungsi untuk menyimpan data nama,nim,nilai uts,uas,dan tugas di struct mahasiswa lalu menjumlahkan nilai rata ratanya di function bernama nilaiakhir.
 
 
