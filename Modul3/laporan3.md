@@ -290,15 +290,9 @@ int main(){
 ```
 <img width="1605" height="440" alt="Image" src="https://github.com/user-attachments/assets/80edfd2a-fb01-47b5-a985-8a17070c61a1" />
 
-Program ini berfungsi untuk menukar 2 kolom matriks berukuran 3x3 dengan matriks lainnya dan menukar pointer X dan Y secara bersamaan
+<img width="470" height="912" alt="Image" src="https://github.com/user-attachments/assets/bccd2475-4ea3-4e0e-afd9-704fa79e4b29" />
 
-#### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
-
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
-
-#### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+Program ini berfungsi untuk menukar 2 kolom matriks berukuran 3x3 dengan matriks lainnya dan menukar pointer X dan Y secara bersamaan.
 
 
 ## Kesimpulan
