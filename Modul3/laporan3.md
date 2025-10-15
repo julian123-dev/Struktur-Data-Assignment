@@ -43,7 +43,7 @@ int main(){
     return 0;
 }
 ```
-Kode di atas berfungsi untuk memanggil struct dari mahasiswa dan menghitung nilai rata rata yang didapat dari 2 inputan nilai tersebut.
+Program ini berfungsi untuk memanggil struct dari mahasiswa dan menghitung nilai rata rata yang didapat dari 2 inputan nilai tersebut..
 
 
 ### 1. [ADT]
