@@ -472,6 +472,7 @@ int main() {
 
 ``` 
 Output:
+<img width="982" height="76" alt="Image" src="https://github.com/user-attachments/assets/f36f03fe-3f06-4488-ba4f-ed3c0885a23f" />
 
 Program ini menerapkan ADT Singly Linked List untuk menyimpan data secara dinamis. Struktur node berisi data dan pointer ke node berikutnya. Melalui fungsi insertAwal, insertAkhir, dan insertAfter, data dimasukkan ke dalam list, kemudian seluruh isi list ditampilkan ke layar.
 
