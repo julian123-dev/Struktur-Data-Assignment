@@ -477,7 +477,7 @@ Output:
 Program ini menerapkan ADT Singly Linked List untuk menyimpan data secara dinamis. Struktur node berisi data dan pointer ke node berikutnya. Melalui fungsi insertAwal, insertAkhir, dan insertAfter, data dimasukkan ke dalam list, kemudian seluruh isi list ditampilkan ke layar.
 
 Full code Screenshot:
-
+<img width="1917" height="1012" alt="Image" src="https://github.com/user-attachments/assets/b56e2a03-c9bd-4a54-98a3-9912e7c5aef8" />
 
 ### 2. [ADT Singly Linked++]
 a. [Header File]
