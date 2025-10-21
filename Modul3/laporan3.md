@@ -154,7 +154,9 @@ int main(){
      
 }
 ```
+<img width="1592" height="477" alt="Image" src="https://github.com/user-attachments/assets/07676e12-3566-471f-b9ce-153e5aa1e4ed" />
 
+<img width="1280" height="815" alt="Image" src="https://github.com/user-attachments/assets/97d0c0e4-c1cf-4dff-8799-b769fd380cdf" />
 
 Program ini berfungsi untuk menyimpan data nama,nim,nilai uts,uas,dan tugas di struct mahasiswa lalu menjumlahkan nilai rata ratanya di function bernama nilaiakhir.
 
@@ -206,6 +208,13 @@ int main(){
     return 0;
 }
 ```
+<img width="1057" height="125" alt="Image" src="https://github.com/user-attachments/assets/c28096a9-0236-4b29-8ab0-3cf66d6df341" />
+
+<img width="576" height="287" alt="Image" src="https://github.com/user-attachments/assets/45569094-e2ea-4111-9179-3f6fa4639c74" />
+
+<img width="636" height="327" alt="Image" src="https://github.com/user-attachments/assets/a22bdf80-a2d9-4358-aeba-55ac381e94e5" />
+
+<img width="625" height="373" alt="Image" src="https://github.com/user-attachments/assets/f5404fce-0e71-45ef-af6e-df1e7b7d0d20" />
 
 Program ini berfungsi untuk membuat ADT dalam sebuah pemograman c++ yang berisi 3 file lalu dijalankan di folder main.
 
@@ -279,15 +288,11 @@ int main(){
     return 0;
 }
 ```
-Program ini berfungsi untuk menukar 2 kolom matriks berukuran 3x3 dengan matriks lainnya dan menukar pointer X dan Y secara bersamaan
+<img width="1605" height="440" alt="Image" src="https://github.com/user-attachments/assets/80edfd2a-fb01-47b5-a985-8a17070c61a1" />
 
-#### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+<img width="470" height="912" alt="Image" src="https://github.com/user-attachments/assets/bccd2475-4ea3-4e0e-afd9-704fa79e4b29" />
 
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
-
-#### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+Program ini berfungsi untuk menukar 2 kolom matriks berukuran 3x3 dengan matriks lainnya dan menukar pointer X dan Y secara bersamaan.
 
 
 ## Kesimpulan
