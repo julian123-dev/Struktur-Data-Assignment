@@ -673,6 +673,7 @@ int main() {
 }
 ```
 Output:
+<img width="1130" height="143" alt="Image" src="https://github.com/user-attachments/assets/98da70ce-1eff-4f55-a3c7-413571235cac" />
 
 Program ini merupakan pengembangan dari ADT Single Linked sebelumnya, tapi ada tambahan beberapa fungsi untuk hapus data dan hitung jumlah node. Strukturnya masih pakai node dengan data dan pointer next. Bedanya, sekarang ada fungsi deleteFirst, deleteLast, deleteAfter, nbList, dan deleteList. Jadi selain bisa nambah data lewat insertAwal, insertAkhir, dan insertAfter, program ini juga bisa hapus dan bersihin list.
 
