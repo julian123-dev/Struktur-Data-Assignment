@@ -779,7 +779,7 @@ int main() {
 
 ```
 #### Output:
-
+<img width="1097" height="930" alt="Image" src="https://github.com/user-attachments/assets/3865272d-7ced-401e-b052-60ca2dd1c2af" />
 
 
 Program ini berfungsi untuk mengelola data karyawan menggunakan struktur data Singly Linked List (SLL) dalam bahasa C++, yang mencakup operasi dasar seperti menambah, menghapus, memperbarui, menampilkan, serta mencari data karyawan.
