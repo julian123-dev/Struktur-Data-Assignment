@@ -786,7 +786,7 @@ Program ini berfungsi untuk mengelola data karyawan menggunakan struktur data Si
 
 #### Full code Screenshot:
 
-
+<img width="1805" height="1023" alt="Image" src="https://github.com/user-attachments/assets/3d265c87-8924-4cb0-b701-0d03723ae7e9" />
 
 ## Kesimpulan
 Ssingly linked list dapat digunakan untuk menampilkan data, mencari elemen tertentu, dan menghitung total nilai elemen dengan bantuan fungsi findElm() dan totalInfo().
