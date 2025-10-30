@@ -472,11 +472,12 @@ int main() {
 
 ``` 
 Output:
+<img width="982" height="76" alt="Image" src="https://github.com/user-attachments/assets/f36f03fe-3f06-4488-ba4f-ed3c0885a23f" />
 
 Program ini menerapkan ADT Singly Linked List untuk menyimpan data secara dinamis. Struktur node berisi data dan pointer ke node berikutnya. Melalui fungsi insertAwal, insertAkhir, dan insertAfter, data dimasukkan ke dalam list, kemudian seluruh isi list ditampilkan ke layar.
 
 Full code Screenshot:
-
+<img width="1917" height="1012" alt="Image" src="https://github.com/user-attachments/assets/b56e2a03-c9bd-4a54-98a3-9912e7c5aef8" />
 
 ### 2. [ADT Singly Linked++]
 a. [Header File]
@@ -672,20 +673,12 @@ int main() {
 }
 ```
 Output:
+<img width="1130" height="143" alt="Image" src="https://github.com/user-attachments/assets/98da70ce-1eff-4f55-a3c7-413571235cac" />
 
 Program ini merupakan pengembangan dari ADT Single Linked sebelumnya, tapi ada tambahan beberapa fungsi untuk hapus data dan hitung jumlah node. Strukturnya masih pakai node dengan data dan pointer next. Bedanya, sekarang ada fungsi deleteFirst, deleteLast, deleteAfter, nbList, dan deleteList. Jadi selain bisa nambah data lewat insertAwal, insertAkhir, dan insertAfter, program ini juga bisa hapus dan bersihin list.
 
 Full code Screenshot:
-
-
-
-#### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
-
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
-
-#### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+<img width="1908" height="998" alt="Image" src="https://github.com/user-attachments/assets/290eb17d-2b19-4c82-aa49-6f3562321dea" />
 
 
 ## Kesimpulan
