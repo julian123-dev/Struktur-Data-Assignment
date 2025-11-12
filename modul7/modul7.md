@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 7 - Stack)</h1>
+# <h1 align="center">Laporan Praktikum Modul 7 - Stack</h1>
 <p align="center">Julian Putra Pamungkas</p>
 
 ## Dasar Teori
