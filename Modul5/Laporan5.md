@@ -779,14 +779,14 @@ int main() {
 
 ```
 #### Output:
-
+<img width="1097" height="930" alt="Image" src="https://github.com/user-attachments/assets/3865272d-7ced-401e-b052-60ca2dd1c2af" />
 
 
 Program ini berfungsi untuk mengelola data karyawan menggunakan struktur data Singly Linked List (SLL) dalam bahasa C++, yang mencakup operasi dasar seperti menambah, menghapus, memperbarui, menampilkan, serta mencari data karyawan.
 
 #### Full code Screenshot:
 
-
+<img width="1805" height="1023" alt="Image" src="https://github.com/user-attachments/assets/3d265c87-8924-4cb0-b701-0d03723ae7e9" />
 
 ## Kesimpulan
 Ssingly linked list dapat digunakan untuk menampilkan data, mencari elemen tertentu, dan menghitung total nilai elemen dengan bantuan fungsi findElm() dan totalInfo().
