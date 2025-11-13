@@ -804,7 +804,7 @@ int main() {
 }
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+<img width="340" height="92" alt="Image" src="https://github.com/user-attachments/assets/4a4b6c4e-5394-47d6-a4c4-36ebedc7207e" />
 
 Kode di atasberfungsi untuk membuat stack dengan menggunakan array. Pada fungsi kali ini,user dapat menginput isi array dengan beberapa nilai data dan akan berhenti jika user menginput 'enter'. Bedanya, di program ini kita tidak menggunakan fungsi push dan menggunakan fungsi getInputStream sebagai inputannya, sehingga user dapat menambahkan inputan hingga nilai array max. Program ini juga menampilkan hasil urutan membalik isi stack dengan fungsi balikStack dan menampilkannya dengan fungsi printInfo.
 
