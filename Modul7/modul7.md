@@ -513,7 +513,7 @@ int main() {
 }
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+<img width="206" height="77" alt="Image" src="https://github.com/user-attachments/assets/d2f75751-fb8d-45af-b7b2-14f35297ca8a" />
 
 Kode di atas berfungsi untuk membuat stack dengan menggunakan array pada fungsinya. Program akan menerima inputan dari fungsi push dan array akan diisi dengan fungsi ini. setelah itu,fungsi pop akan menghapus elemen yang berada di paling atas, disini pop menghapus push 8 dan push 3 sehingga output hanya menampilkan 4 angka dari 6 fungsi push. Program ini juga akan menampilkan output yang terbalik dari hasil pop dan push tadi dengan fungsi balikstack dan akan menampilkan outputnya dengan menggunakan fungsi printInfo.
 
