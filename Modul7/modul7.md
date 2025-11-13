@@ -660,7 +660,7 @@ int main() {
 Kode di atas berfungsi untuk membuat stack dengan menggunakan array pada fungsinya. Berbeda dengan sebelumnya, disini kita menggunakan fungsi yang bernama pushAscending yang berfungsi untuk memasukkan data dan mengurutkannya dari nilai terkecil hingga terbesar, sehingga data dapat terurut secara ascending. Lalu fungsi akan menampilkan hasil outputnya pada fungsi printInfo. Program ini juga menampilkan hasil output tadi secara terbalik dengan menggunakan fungsi balikStack dan menampilkannya di printInfo.
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+<img width="822" height="602" alt="Image" src="https://github.com/user-attachments/assets/3dcbec5d-69b8-44b1-b022-8d3d32f5a8d0" />
 
 
 ### 3. [Soal]
