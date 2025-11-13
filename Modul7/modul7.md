@@ -394,7 +394,7 @@ Program ini berfungsi untuk membuat stack dengan menggunakan fungsi array dengan
 
 ## Unguided 
 
-### 1. [Soal]
+### 1. [Buatlah ADT stack menggunakan array]
 
 ```C++
 //stack.h
@@ -521,7 +521,7 @@ Kode di atas berfungsi untuk membuat stack dengan menggunakan array pada fungsin
 <img width="903" height="552" alt="Image" src="https://github.com/user-attachments/assets/85359585-6d0c-4c11-9316-3cc12a2311fa" />
 
 
-### 2. [Soal]
+### 2. [Tambahkan pushAscending]
 
 ```C++
 //stack.h
@@ -663,7 +663,7 @@ Kode di atas berfungsi untuk membuat stack dengan menggunakan array pada fungsin
 <img width="822" height="602" alt="Image" src="https://github.com/user-attachments/assets/3dcbec5d-69b8-44b1-b022-8d3d32f5a8d0" />
 
 
-### 3. [Soal]
+### 3. [Tambahkan prosedur getInputStream( in/out S : Stack ). Prosedur akan terus membaca dan menerima input user dan memasukkan setiap input ke dalam stack hingga user menekan tombol enter. Contoh: gunakan cin.get() untuk mendapatkan inputan user.]
 
 ```C++
 //stack.h
