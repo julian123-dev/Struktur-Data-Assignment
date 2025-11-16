@@ -1082,6 +1082,8 @@ int main() {
    <img width="360" height="227" alt="Image" src="https://github.com/user-attachments/assets/8385325f-f78c-497f-b25e-b1c438c81179" />
    
 3. [Hapus elemen dengan nomor polisi D003 dengan procedure delete]
+   
+<img width="662" height="341" alt="Image" src="https://github.com/user-attachments/assets/93ae0caa-191c-4942-bd67-5e46c3c103c7" />
 
 Sistem Manajemen Data Kendaraan yang menggunakan struktur data Doubly Linked List (Daftar Berantai Dua Arah) untuk menyimpan dan mengelola informasi Nomor Polisi, Warna, dan Tahun Pembuatan secara dinamis. Inti dari program ini adalah mengizinkan data yang duplikat (Nomor Polisi yang sama boleh dimasukkan lebih dari satu kali) dan menyediakan fungsionalitas lanjutan (searchAndPrintAll dan deleteAllMatches) untuk mencari serta menghapus semua data kendaraan yang cocok dengan kriteria yang diberikan, bukan hanya data pertama.
 
