@@ -1088,7 +1088,7 @@ int main() {
 Sistem Manajemen Data Kendaraan yang menggunakan struktur data Doubly Linked List (Daftar Berantai Dua Arah) untuk menyimpan dan mengelola informasi Nomor Polisi, Warna, dan Tahun Pembuatan secara dinamis. Inti dari program ini adalah mengizinkan data yang duplikat (Nomor Polisi yang sama boleh dimasukkan lebih dari satu kali) dan menyediakan fungsionalitas lanjutan (searchAndPrintAll dan deleteAllMatches) untuk mencari serta menghapus semua data kendaraan yang cocok dengan kriteria yang diberikan, bukan hanya data pertama.
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+<img width="1920" height="1006" alt="Image" src="https://github.com/user-attachments/assets/730c7e6b-9849-4d59-93e9-0756f24f7e7e" />
 
 
 ## Kesimpulan
