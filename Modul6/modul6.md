@@ -1075,7 +1075,12 @@ int main() {
 
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+1. [Buatlah implementasi ADT Doubly Linked list pada file “Doublylist.cpp” dan coba hasil implementasi ADT pada file “main.cpp”.]
+<img width="991" height="728" alt="Image" src="https://github.com/user-attachments/assets/4d988da6-f3f2-4e23-8697-2dfa4e77ed87" />
+
+2. [Buat fungsi findElm(L, x) untuk mencari elemen dengan info = 8 dan mengembalikan alamat node tersebut]
+   
+3. [Hapus elemen dengan nomor polisi D003 dengan procedure delete]
 
 Sistem Manajemen Data Kendaraan yang menggunakan struktur data Doubly Linked List (Daftar Berantai Dua Arah) untuk menyimpan dan mengelola informasi Nomor Polisi, Warna, dan Tahun Pembuatan secara dinamis. Inti dari program ini adalah mengizinkan data yang duplikat (Nomor Polisi yang sama boleh dimasukkan lebih dari satu kali) dan menyediakan fungsionalitas lanjutan (searchAndPrintAll dan deleteAllMatches) untuk mencari serta menghapus semua data kendaraan yang cocok dengan kriteria yang diberikan, bukan hanya data pertama.
 
