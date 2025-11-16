@@ -1079,6 +1079,7 @@ int main() {
 <img width="991" height="728" alt="Image" src="https://github.com/user-attachments/assets/4d988da6-f3f2-4e23-8697-2dfa4e77ed87" />
 
 2. [Buat fungsi findElm(L, x) untuk mencari elemen dengan info = 8 dan mengembalikan alamat node tersebut]
+   <img width="360" height="227" alt="Image" src="https://github.com/user-attachments/assets/8385325f-f78c-497f-b25e-b1c438c81179" />
    
 3. [Hapus elemen dengan nomor polisi D003 dengan procedure delete]
 
