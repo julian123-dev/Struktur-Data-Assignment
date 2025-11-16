@@ -394,7 +394,7 @@ Program ini berfungsi untuk membuat stack dengan menggunakan fungsi array dengan
 
 ## Unguided 
 
-### 1. [Soal]
+### 1. [Buatlah ADT stack menggunakan array]
 
 ```C++
 //stack.h
@@ -513,15 +513,15 @@ int main() {
 }
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+<img width="206" height="77" alt="Image" src="https://github.com/user-attachments/assets/d2f75751-fb8d-45af-b7b2-14f35297ca8a" />
 
 Kode di atas berfungsi untuk membuat stack dengan menggunakan array pada fungsinya. Program akan menerima inputan dari fungsi push dan array akan diisi dengan fungsi ini. setelah itu,fungsi pop akan menghapus elemen yang berada di paling atas, disini pop menghapus push 8 dan push 3 sehingga output hanya menampilkan 4 angka dari 6 fungsi push. Program ini juga akan menampilkan output yang terbalik dari hasil pop dan push tadi dengan fungsi balikstack dan akan menampilkan outputnya dengan menggunakan fungsi printInfo.
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+<img width="903" height="552" alt="Image" src="https://github.com/user-attachments/assets/85359585-6d0c-4c11-9316-3cc12a2311fa" />
 
 
-### 2. [Soal]
+### 2. [Tambahkan pushAscending]
 
 ```C++
 //stack.h
@@ -654,15 +654,16 @@ int main() {
 }
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+<img width="196" height="82" alt="Image" src="https://github.com/user-attachments/assets/e7211f68-273a-4e8e-b894-509475f2f8c2" />
+
 
 Kode di atas berfungsi untuk membuat stack dengan menggunakan array pada fungsinya. Berbeda dengan sebelumnya, disini kita menggunakan fungsi yang bernama pushAscending yang berfungsi untuk memasukkan data dan mengurutkannya dari nilai terkecil hingga terbesar, sehingga data dapat terurut secara ascending. Lalu fungsi akan menampilkan hasil outputnya pada fungsi printInfo. Program ini juga menampilkan hasil output tadi secara terbalik dengan menggunakan fungsi balikStack dan menampilkannya di printInfo.
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+<img width="822" height="602" alt="Image" src="https://github.com/user-attachments/assets/3dcbec5d-69b8-44b1-b022-8d3d32f5a8d0" />
 
 
-### 3. [Soal]
+### 3. [Tambahkan prosedur getInputStream( in/out S : Stack ). Prosedur akan terus membaca dan menerima input user dan memasukkan setiap input ke dalam stack hingga user menekan tombol enter. Contoh: gunakan cin.get() untuk mendapatkan inputan user.]
 
 ```C++
 //stack.h
@@ -803,12 +804,12 @@ int main() {
 }
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+<img width="340" height="92" alt="Image" src="https://github.com/user-attachments/assets/4a4b6c4e-5394-47d6-a4c4-36ebedc7207e" />
 
 Kode di atasberfungsi untuk membuat stack dengan menggunakan array. Pada fungsi kali ini,user dapat menginput isi array dengan beberapa nilai data dan akan berhenti jika user menginput 'enter'. Bedanya, di program ini kita tidak menggunakan fungsi push dan menggunakan fungsi getInputStream sebagai inputannya, sehingga user dapat menambahkan inputan hingga nilai array max. Program ini juga menampilkan hasil urutan membalik isi stack dengan fungsi balikStack dan menampilkannya dengan fungsi printInfo.
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+<img width="857" height="497" alt="Image" src="https://github.com/user-attachments/assets/54ecb23a-7703-40f3-9d69-c6b56827896c" />
 
 
 ## Kesimpulan
