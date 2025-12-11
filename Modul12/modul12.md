@@ -1451,7 +1451,7 @@ int main() {
 <img width="1452" height="446" alt="Image" src="https://github.com/user-attachments/assets/118f95ed-55ac-49b0-a381-dfc541fcadc6" />
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+<img width="1582" height="832" alt="Image" src="https://github.com/user-attachments/assets/86834b4e-d985-4162-b0dc-c1f303e7020e" />
 
 
 
@@ -1464,7 +1464,8 @@ int main() {
    
 
 #### Output:
-<img width="1918" height="1021" alt="Image" src="https://github.com/user-attachments/assets/7ccda5a5-c82f-40f5-b062-e8db8e8d32ef" />
+
+<img width="1582" height="832" alt="Image" src="https://github.com/user-attachments/assets/ac1540af-4aa0-45f4-b1b2-45f424b45941" />
 
 Kedua latihan ini sama-sama membahas cara mengelola data menggunakan struktur linked list, tetapi dengan bentuk yang berbeda. Latihan 2 memakai multilist yang memiliki hubungan induk–anak, sedangkan latihan 3 memakai circular doubly linked list yang menyambungkan node secara melingkar. Tujuan keduanya adalah melatih penggunaan pointer dan cara memasukkan, menghapus, serta menelusuri data.
 1. Pada latihan 2 ini, program membangun sebuah multilist, di mana setiap induk bisa memiliki beberapa anak. Program mulai dengan membuat list induk, lalu menambahkan beberapa induk dan mengisi masing-masing dengan anak menggunakan fungsi insert. Program juga mencoba menghapus anak tertentu dan menghapus induk beserta seluruh anaknya. Hasil akhirnya ditampilkan sehingga terlihat hubungan antar induk dan anak. Latihan ini membantu memahami cara menangani struktur data bertingkat.
