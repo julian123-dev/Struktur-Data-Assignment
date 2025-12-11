@@ -1451,7 +1451,8 @@ int main() {
 <img width="1452" height="446" alt="Image" src="https://github.com/user-attachments/assets/118f95ed-55ac-49b0-a381-dfc541fcadc6" />
 
 #### Full code Screenshot:
-<img width="1582" height="832" alt="Image" src="https://github.com/user-attachments/assets/86834b4e-d985-4162-b0dc-c1f303e7020e" />
+
+<img width="1917" height="982" alt="Image" src="https://github.com/user-attachments/assets/977e9ba4-796d-458e-8a8a-913d2e8cb367" />
 
 
 
